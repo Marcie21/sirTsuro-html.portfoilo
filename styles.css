@@ -1,0 +1,40 @@
+html{
+    background: linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);
+   background-size: 180% 180%;
+   animation: gradient-animation 18s ease infinite;
+}
+ 
+
+
+h1{ color: black; 
+    text-align: center; 
+    font-size: 3rem;
+}
+
+p{
+    color: color(srgb red green blue);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   align-items: center;
+}
+
+h2{
+    text-align: center;
+    font-size: 2rem;
+}
+
+h3{
+    color: black;
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+
+.information{
+    display: block;
+    margin:10px auto;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin-left: 260px;
+    padding: 10px;
+}
